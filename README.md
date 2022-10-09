@@ -16,7 +16,7 @@
 
 - 📫 Mail **mzenulabidin@gmail.com**
 
-- ⚡ I Love **Cricket,Action movies,Travelling,Exploring new things**
+- ⚡ I Love **Cricket,movies,Travelling,Food**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
