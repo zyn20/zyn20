@@ -6,15 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/@zen____8" target="blank"></a> </p>
 
-- 🔭 I’m currently working on [Shalal Almashreq (Project Management Company 🇦🇪)](https://shalalalmashreq.com/)
-
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently learning **Asp-DotNet-Mvc**
 
 - 🤝 I’m looking for freelance work in **Web Development**
 
-- 💬 Ask me about **SQL,X++,C++,C#**
+- 💬 Ask me about **SQL,X++,C++,C#,wordpress**
 
-- 📫 Mail **mzenulabidin@gmail.com**
+- 📫 Mail **mail.zyn20@gmail.com**
 
 - ⚡ I Love **Cricket,movies,Travelling,Food**
 
