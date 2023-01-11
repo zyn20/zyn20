@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/@zen____8" target="blank"></a> </p>
 
-- 🌱 I’m currently learning **Asp-DotNet-Mvc**
+- 🌱 I’m currently learning **Flutter**
 
 - 🤝 I’m looking for freelance work in **Web Development**
 
-- 💬 Ask me about **SQL,X++,C++,C#,wordpress**
+- 💬 Ask me about **SQL,C++,C#,wordpress,Flutter,Dart**
 
 - 📫 Mail **mail.zyn20@gmail.com**
 
