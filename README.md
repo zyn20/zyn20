@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/@zen____8" target="blank"></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **React Native**
 
 - 🤝 I’m looking for freelance work in **Web Development**
 
