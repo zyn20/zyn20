@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/@zen____8" target="blank"></a> </p>
 
-- 🌱 I’m currently learning **Node JS**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 🤝 I’m looking for freelance work in **Web Development**
 
