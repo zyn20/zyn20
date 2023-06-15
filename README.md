@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/@zen____8" target="blank"></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Blockchain**
 
-- 🤝 I’m looking for freelance work in **Web Development**
+- 🤝 I’m looking for freelance work in **Web Development and Mobile Application Development**
 
-- 💬 Ask me about **SQL,C++,C#,wordpress,React,Node Js,**
+- 💬 Ask me about **SQL,C++,C#,wordpress,Mern Stack,Flutter,React native**
 
 - 📫 Mail **mail.zyn20@gmail.com**
 
