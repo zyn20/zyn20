@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **SQL,C++,Mern Stack**
 
-- 📫 Mail **mail.zyn20@gmail.com**
+- 📫 Mail **zaindev2000@gmail.com**
 
 - ⚡ I Love **Cricket,movies,Travelling,Food**
 
