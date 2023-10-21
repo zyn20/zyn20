@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for freelance work in **Web Development and Mobile Application Development**
 
-- 💬 Ask me about **SQL,C++,C#,wordpress,Mern Stack,Flutter,React native**
+- 💬 Ask me about **SQL,C++,Mern Stack**
 
 - 📫 Mail **mail.zyn20@gmail.com**
 
