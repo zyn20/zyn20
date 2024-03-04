@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zain</h1>
 <h3 align="center">A Tech enthusiast who is obsessed with the idea of improving himself and explore various things.</h3>
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611d1a2435a7afbcebab649e3b40cf6b91125f8e962&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/12124303/file/original-3c16a3a548a4b2ac1340ff32d71c1e95.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zyn20&label=Profile%20views&color=0e75b6&style=flat" alt="zyn20" /> </p>
 
